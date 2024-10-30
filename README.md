@@ -1,10 +1,10 @@
 # GestionEmpresa
 
-* [ ] Comecocos
-* [ ] Madison Beer
+* [X] Comecocos
+* [X] Madison Beer
 * [ ] Madelyne Cline
-* [ ] **Sexo drogas y rock n roll**
-* [ ] comebolsas
+* [X] **Sexo drogas y rock n roll**
+* [X] comebolsas
 
 
 | Ametz pintxa         | Andoni pintxa         | Jon pintxa               |
