@@ -10,4 +10,4 @@
 | Ametz pintxa         | Andoni pintxa         | Jon pintxa               |
 | ---------------------- | ----------------------- | -------------------------- |
 | porque es diabético | porque tiene parienta | pero la otra tiene novio |
-| aaaaaa               | bbbbbbbb              |                          |
+| aaaaaa               | bbbbbbbb              | cccccccc                 |
